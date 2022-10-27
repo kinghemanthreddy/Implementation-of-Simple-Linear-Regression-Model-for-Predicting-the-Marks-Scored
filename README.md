@@ -84,8 +84,8 @@ plt.ylabel("Scores")
 
 plt.show()
 ## Output:
-![simple linear regression](folder\196490458-6be73b1d-d607-498c-8fcb-368ce1b02c67.png)
-![simple linear regression2](folder\196493624-19a2a8de-cb33-4c49-9227-6abe3938cfe2.png)
+![simple linear regression](folder/196490458-6be73b1d-d607-498c-8fcb-368ce1b02c67.png)
+![simple linear regression2](folder/196493624-19a2a8de-cb33-4c49-9227-6abe3938cfe2.png)
 
 
 ## Result:
