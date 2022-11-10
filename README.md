@@ -92,6 +92,10 @@ plt.show()
 ![simple linear regression3](folder/ss2.png)
 ![simple linear regression3](folder/ss3.png)
 ![simple linear regression3](folder/ss4.png)
+![simple linear regression3](folder/ss5.png)
+
+
+
 
 
 ## Result:
