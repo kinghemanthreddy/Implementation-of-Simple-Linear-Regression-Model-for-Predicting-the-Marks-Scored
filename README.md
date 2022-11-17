@@ -69,6 +69,16 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
 
+mse = mean_squared_error(Y_test,Y_pred)
+print('MSE = ',mse)
+
+mae = mean_absolute_error(Y_test,Y_pred)
+print('MAE = ',mae)
+
+rmse=np.sqrt(mse)
+print("RMSE = ",rmse)
+
+
 ```
 ## Output:
 ![simple linear regression](folder/196490458-6be73b1d-d607-498c-8fcb-368ce1b02c67.png)
