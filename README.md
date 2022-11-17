@@ -88,6 +88,11 @@ print("RMSE = ",rmse)
 ![simple linear regression3](folder/ss3.png)
 ![simple linear regression3](folder/ss4.png)
 ![simple linear regression3](folder/ss5.png)
+![image](https://user-images.githubusercontent.com/116530537/202354112-15e85f73-8232-48c5-aa4d-8c6f6c9e8a1d.png)
+
+![image](https://user-images.githubusercontent.com/116530537/202354188-193cf998-f1d0-4049-b32e-a9048b29ea8c.png)
+
+
 
 
 
