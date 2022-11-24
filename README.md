@@ -83,6 +83,9 @@ print("RMSE = ",rmse)
 ## Output:
 ![simple linear regression](folder/196490458-6be73b1d-d607-498c-8fcb-368ce1b02c67.png)
 ![simple linear regression2](folder/196493624-19a2a8de-cb33-4c49-9227-6abe3938cfe2.png)
+
+![image](https://user-images.githubusercontent.com/116530537/203835198-a7ce12b1-c880-4780-9e70-e5011309b702.png)
+
 ![simple linear regression3](folder/ss1.png)
 ![simple linear regression3](folder/ss2.png)
 ![simple linear regression3](folder/ss3.png)
